@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "147981843045",
+    "project_id": "my-insta-8208",
+    "storage_bucket": "my-insta-8208.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:147981843045:android:f36141673be52b2977e48c",
+        "android_client_info": {
+          "package_name": "com.example.my_insta"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "147981843045-2a8gmpguoemcghi0l06khjtb673abt20.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBL5_RCCJUf_3O_jpryD9RxJJnWIrpkaCQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "147981843045-2a8gmpguoemcghi0l06khjtb673abt20.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
