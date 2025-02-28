@@ -4,11 +4,11 @@ import 'dart:convert';
 import 'package:crypto/crypto.dart';
 
 class CloudinaryService {
-  static const String uploadPreset = "flutter_uploads";
-  static const String cloudName = "dhgorpjkd";
-  static const String apiKey = "424961123555225";
+  static const String uploadPreset = "YOUR-FOLDER-ON-CLOUDINARY";
+  static const String cloudName = "YOUR-CLOUD-NAME";
+  static const String apiKey = "YOUR-CLOUDINARY-APIKEY";
   static const String apiSecret =
-      "ilItp_Q-uw0o9Va4mfQ-k5GFBtc"; // Replace with your secret key
+      "YOUR-CLOUDINARY-API-SECRET-KEY"; // Replace with your secret key
 
   /// **Generate Cloudinary Signature**
   static String generateSignature(String publicId, int timestamp) {
