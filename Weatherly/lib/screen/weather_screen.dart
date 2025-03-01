@@ -11,7 +11,7 @@ class WeatherScreen extends StatefulWidget {
 }
 
 class _WeatherScreenState extends State<WeatherScreen> {
-  final _weatherService = WeatherService('34d3494545e6ad9c6e36165419a7b451');
+  final _weatherService = WeatherService('YOUR-API-KEY');
   Weather? _weather;
 
   @override
