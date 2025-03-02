@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "703582367294",
+    "firebase_url": "https://flutter-uber-7b63a-default-rtdb.firebaseio.com",
+    "project_id": "flutter-uber-7b63a",
+    "storage_bucket": "flutter-uber-7b63a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:703582367294:android:9f965c8cb4b55ba1d0eb6f",
+        "android_client_info": {
+          "package_name": "com.example.e_mart"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "703582367294-l64ugjf7atbg5a3m88g4jb200803ocgn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDyRfFShlo-MIgIa2si-LoF8-4W4sWdxKM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "703582367294-l64ugjf7atbg5a3m88g4jb200803ocgn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
