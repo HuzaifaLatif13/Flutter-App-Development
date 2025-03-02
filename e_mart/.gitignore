@@ -41,3 +41,23 @@ app.*.map.json
 /android/app/debug
 /android/app/profile
 /android/app/release
+
+# Environment and Secret Keys  
+.env  
+keys.properties  
+google-services.json  
+firebase_options.dart  
+
+# Dependencies and lock files  
+pubspec.lock  
+
+# iOS build files  
+ios/Pods/  
+ios/.symlinks/  
+ios/Flutter/  
+ios/Runner.xcworkspace/  
+ios/Runner.xcodeproj/project.xcworkspace/  
+
+# Android build files  
+android/.gradle/  
+android/app/debug.keystore  
