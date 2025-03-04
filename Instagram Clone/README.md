@@ -58,9 +58,6 @@ A fully functional Instagram clone built using **Flutter**, **Firebase**, **Clou
    flutter run
    ```
 
-## Screenshots 📸
-(Add screenshots of your app here)
-
 ## Contributing 🤝
 Pull requests are welcome! If you'd like to contribute, please fork the repository and submit a PR.
 
