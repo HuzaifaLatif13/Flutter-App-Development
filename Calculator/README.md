@@ -34,9 +34,6 @@ This project uses the following dependencies:
 - `flutter`: Latest stable version
 - `math_expressions`: For evaluating mathematical expressions
 
-## Screenshots
-(Include relevant screenshots here)
-
 ## Contributions
 Feel free to fork the repository and submit pull requests for improvements or new features!
 
