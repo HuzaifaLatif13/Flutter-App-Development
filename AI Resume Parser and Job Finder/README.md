@@ -54,3 +54,4 @@ This project is licensed under the **MIT License**.
 ---
 🚀 **Developed with Flutter & AI to simplify job search!**
 
+ - MUHAMMAD HUZAIFA LATIF
